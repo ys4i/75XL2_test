@@ -1,6 +1,6 @@
-# Bike Real-Time Plot
+# AEROBIKE 75XLII Real-Time Plot
 
-This project is designed to monitor and visualize heart rate and rotation speed data from a KONAMI AEROBIKE 75XLIII in real-time using Python. The data is retrieved via a serial connection and plotted using Matplotlib.
+This project is designed to monitor and visualize heart rate and rotation speed data from a KONAMI AEROBIKE 75XLII in real-time using Python. The data is retrieved via a serial connection and plotted using Matplotlib.
 
 ## Project Structure
 
