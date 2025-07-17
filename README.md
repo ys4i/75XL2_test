@@ -2,6 +2,11 @@
 
 This project is designed to monitor and visualize heart rate and rotation speed data from a KONAMI AEROBIKE 75XLII in real-time using Python. The data is retrieved via a serial connection and plotted using Matplotlib.
 
+## Note
+The following document is the manual for III. It is not II.
+The order in which commands are sent seems to be different between the actual device and the manual.
+http://jp-chuoh.com/chuohsys/wp-content/uploads/2014/08/75xl3.pdf
+
 ## Project Structure
 
 ```
